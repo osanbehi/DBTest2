@@ -1,0 +1,35 @@
+{
+  "last_updated": "",
+  "app_systems": {
+    "SAP": {
+      "process_models": [
+        "process 1",
+        "process 2",
+        "process 3",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100",
+        "process 100"
+      ]
+    },
+    "LeanIX": {
+      "process_models": [
+        "process 3",
+        "process 6",
+        "process 9"
+      ]
+    },
+    "ARIS": {
+      "process_models": [
+        "process 2",
+        "process 4",
+        "process 6"
+      ]
+    }
+  }
+}

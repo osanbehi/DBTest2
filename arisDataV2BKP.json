@@ -1,0 +1,52 @@
+{
+  "systems": [
+    {
+      "guid": "123456",
+      "name": "SAP",
+      "process_1": {
+        "guid": "121314",
+        "name": "Process model 1"
+      },
+      "process_2": {
+        "guid": "121316",
+        "name": "Process model 2"
+      },
+      "process_3": {
+        "guid": "121317",
+        "name": "Process model 3"
+      }
+    },
+    {
+      "guid": "123457",
+      "name": "ARIS",
+      "process_1": {
+        "guid": "121318",
+        "name": "Process model 4"
+      },
+      "process_2": {
+        "guid": "121319",
+        "name": "Process model 2"
+      },
+      "process_3": {
+        "guid": "121320",
+        "name": "Process model 5"
+      }
+    },
+    {
+      "guid": "123458",
+      "name": "LeanIX",
+      "process_1": {
+        "guid": "121321",
+        "name": "Process model 5"
+      },
+      "process_2": {
+        "guid": "121322",
+        "name": "Process model 6"
+      },
+      "process_3": {
+        "guid": "121323",
+        "name": "Process model 7"
+      }
+    }
+  ]
+}
